@@ -1,0 +1,5 @@
+# Godot 4+ specific ignores
+.godot/
+
+# HWC-specific ignores
+videos-out
