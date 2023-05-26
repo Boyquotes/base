@@ -11,6 +11,6 @@ This repository includes:
   * Create a scene in `videos`, and give it some behavior.
     * Ensure that it calls `get_tree().quit()` once it's done, or the video will never end.
     * Also, call `get_window().unresizable = true` at the start to prevent the video from getting stretched out by the window manager.
-  * Call `make videos-out/your-scene-name.avi` to render the video.
+  * Call `make videos-out/your-scene-name.mp4` to render the video.
 * [ ] Tooling to build and update HWC GameSheet for Godot 4.
 * [ ] An installation of Godot Ink? Depends whether we end up using it.
